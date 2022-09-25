@@ -1,0 +1,31 @@
+
+What is Excel? Why do we use Excel?
+By organizing data using software like Excel, data analysts and other users can make information easier to view as data is added or changed.
+ Excel contains a large number of boxes called cells that are ordered in rows and columns.
+
+
+List all the versions of Microsoft excel. Compare excel software provided from multiple vendors.
+
+There have been 30 different versions of Excel, stretching from 1985 to the present day.
+  These days most users today will have Excel 2016, 2019, 2021 or 365.
+
+Apple Numbers,Microsoft Excel,PlanMakerQuattro Pro.
+The major difference between excel vs numbers is that of compatibility and versatility, while excel works on major platforms, both mac and Microsoft. 
+On the other hand, apple numbers only work on IOS operating systems and not anything else; 
+this is due to the policies and structure of Apple company which is designed in this manner 
+that they do not want any user to use products, platforms, tools, and software any other than MAC.
+
+
+How to create bar charts in excel, demonstrated with practical examples.
+Excel 2016: Click Insert > Insert Column or Bar Chart icon, and select a column chart option of your choice. 
+Excel 2013: Click Insert > Insert Column Chart icon, and select a column chart option of your choice.
+
+
+Create an analytics dashboard in python and present your findings.
+
+
+
+
+How to connect Excel with the databases.
+To connect Excel to a database in SQL Database, open Excel and then create a new workbook or open an existing Excel workbook.
+ In the menu bar at the top of the page, select the Data tab, select Get Data, select From Azure, and then select From Azure SQL Databas
